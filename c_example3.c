@@ -18,7 +18,7 @@ int main()
 
   scanf("%d", &x);
 
-  printf("\nThis is the entered number: %d ", x);
+  printf("This is the entered number: %d\n", x);
 
   return 0;
 

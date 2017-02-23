@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main
+int main()
 
 {
 
@@ -32,7 +32,7 @@ switch(option1)
     break;
 
     default:
-    printf("That's not an option\n")
+    printf("That's not an option\n");
 
     }
 

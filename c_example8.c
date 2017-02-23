@@ -15,11 +15,11 @@ int x = 10;
 
 do {
 
-  printf("x is equal to: %d ", x);
+  printf("x is equal to: %d\n", x);
 
-  x++; /*x = x + 1;*/
+  x++;
 
-} while(a < 20); /*x < 20*/
+} while(x < 20);
 
 return 0;
 

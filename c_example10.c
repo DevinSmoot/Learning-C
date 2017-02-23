@@ -11,11 +11,11 @@ int main()
 
 {
 
-  int x = 0;
+int x = 0;
 
-  printf("Enter a number between 1 and 20: ");
+printf("Enter a number between 1 and 20: ");
 
-  scanf ("%d", &x);
+scanf ("%d", &x);
 
 if(x < 10)
 

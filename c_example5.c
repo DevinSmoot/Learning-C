@@ -17,9 +17,11 @@ printf("Enter a letter: ");
 
 chval1 = getchar();
 
-printf("\nYou entered the letter: ");
+printf("You entered the letter: ");
 
 putchar(chval1);
+
+printf ("\n");
 
 return 0;
 

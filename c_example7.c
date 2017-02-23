@@ -11,11 +11,11 @@ int main()
 
 {
 
-for(int x = 0;x < 11;x + 1)
+for(int x = 0;x < 11;x ++)
 
   {
 
-    printf("x is equal to: %d", x);
+    printf("x is equal to: %d\n", x);
 
   }
 

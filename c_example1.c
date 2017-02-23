@@ -16,6 +16,8 @@ printf("Enter two seperate whole numbers: ");
 
 scanf("%d %d",&x1,&x2);
 
+printf("You entered %d and %d\n", x1, x2); 
+
 return 0;
 
 }
