@@ -2,6 +2,7 @@
 
 int main()
 {
-    puts("Don't bother me now. I'm busy.");
+    puts("I love displaying text!");
     return(0);
 }
+
