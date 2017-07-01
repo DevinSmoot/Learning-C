@@ -3,6 +3,6 @@
 int main()
 {
     puts("The secret password is:");
-    puts("Spatula.";
+    puts("Spatula.");
     return (0);
 }
