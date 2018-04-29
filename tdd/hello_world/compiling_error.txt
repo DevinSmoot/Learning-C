@@ -1,0 +1,5 @@
+In file included from D:\Projects\git\Learning-C\tdd\hello_world\hello_world.c:30:0:
+c:\mingw\include\cunit\basic.h:36:19: fatal error: CUnit.h: No such file or directory
+ #include "CUnit.h"
+                   ^
+compilation terminated.
